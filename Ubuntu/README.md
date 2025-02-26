@@ -2,7 +2,9 @@
 
 ## 准备工作
 
-### 1.甲骨文 arm 架构 VPS
+#### 1.甲骨文 arm 架构 VPS
+
+#### 2.本地安装 VNC 用于连接 vps 安装系统 [官网下载 VNC](https://www.realvnc.com/)
 
 ### Ubuntu/Debian arm64
 
