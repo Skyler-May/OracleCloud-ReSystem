@@ -27,9 +27,21 @@ wget https://github.com/netbootxyz/netboot.xyz/releases/download/替换netboot�
 <img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/7.png" />
 <img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/8.png" />
 <img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/9.png" />
+2. 注意这一步需要选择 `Continue in basic mode >`，如果选择 `Continue in rich mode`会出现乱码！
 <img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/10.png" />
 <img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/11.png" />
 <img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/12.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/13.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/14.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/15.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/16.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/17.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/18.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/19.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/20.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/21.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/22.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/23.png" />
 
 
 
