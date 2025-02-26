@@ -19,6 +19,36 @@ wget https://github.com/netbootxyz/netboot.xyz/releases/download/替换netboot�
 ```
 1. 重启主机，进入 BIOS，按 `ESC` 键进入引导菜单，选择 `Boot Maintenance Manager`;
 <img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/1.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/2.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/3.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/4.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/5.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/6.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/7.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/8.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/9.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/10.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/11.png" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/12.png" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- # 必要的修改，（如不修改此项，在 SSH 终端切换到 root 用户时会多一步密码验证）
