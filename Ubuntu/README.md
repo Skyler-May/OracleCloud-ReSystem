@@ -18,7 +18,7 @@ cd /boot/efi/EFI
 wget https://github.com/netbootxyz/netboot.xyz/releases/download/替换netboot最新版本号/netboot.xyz-arm64.efi
 ```
 1. 重启主机，进入 BIOS，按 `ESC` 键进入引导菜单，选择 `Boot Maintenance Manager`;
-<img src="" />
+<img src="https://github.com/Skyler-May/OracleCloud-ReSystem/blob/main/Ubuntu/img/1.png" />
 
 
 <!-- # 必要的修改，（如不修改此项，在 SSH 终端切换到 root 用户时会多一步密码验证）
