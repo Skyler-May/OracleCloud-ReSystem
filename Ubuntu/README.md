@@ -14,7 +14,7 @@ apt install wget -y
 cd /boot/efi/EFI
 wget https://github.com/netbootxyz/netboot.xyz/releases/download/替换为最新版本号/netboot.xyz-arm64.efi
 ```
-[进入GitHub仓库 查看最新版 netboot](https://github.com/netbootxyz/netboot.xyz)
+[进入 GitHub 仓库 查看最新版 netboot](https://github.com/netbootxyz/netboot.xyz)
 
 ### 2.甲骨文控制台设置,启动 Cloud Shell 连接
 
