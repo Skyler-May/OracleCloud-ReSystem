@@ -16,9 +16,9 @@
 yum update -y
 yum apt
 cd /boot/efi/EFI
-wget https://github.com/netbootxyz/netboot.xyz/releases/download/替换为最新版本号/netboot.xyz-arm64.efi
+wget https://github.com/netbootxyz/netboot.xyz/releases/download/替换netboot最新版本号/netboot.xyz-arm64.efi
 ```
-[进入GitHub仓库 查看最新版 netboot](https://github.com/netbootxyz/netboot.xyz)
+[查看最新版 netboot](https://github.com/netbootxyz/netboot.xyz)
 
 ### x86_64
   
