@@ -1,7 +1,5 @@
 # 甲骨文 VPS 安装 CentOS 9  
 
-[GitHub仓库 netboot](https://github.com/netbootxyz/netboot.xyz)
-
 # 准备工作
 
 #### 1.甲骨文 arm 架构 VPS
@@ -20,7 +18,8 @@ yum apt
 cd /boot/efi/EFI
 wget https://github.com/netbootxyz/netboot.xyz/releases/download/2.0.74/netboot.xyz-arm64.efi
 ```
-  
+[进入GitHub仓库 查看最新版 netboot](https://github.com/netbootxyz/netboot.xyz)
+
 ### x86_64
 
 ```bash
