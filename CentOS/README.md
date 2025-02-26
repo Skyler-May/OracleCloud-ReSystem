@@ -21,11 +21,6 @@ wget https://github.com/netbootxyz/netboot.xyz/releases/download/替换为最新
 [进入GitHub仓库 查看最新版 netboot](https://github.com/netbootxyz/netboot.xyz)
 
 ### x86_64
-
-```bash
-cd /boot/efi/EFI
-wget https://boot.netboot.xyz/ipxe/netboot.xyz.efi
-```
   
 ### 2.甲骨文控制台设置,启动 Cloud Shell 连接
 
