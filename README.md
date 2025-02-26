@@ -4,5 +4,5 @@
 
 ## 目录
 
-### 1.[CentOS](https://github.com/Skyler-May/some_project/edit/main/OracleCloud_Resystem/CentOS)
-### 2.[Ubuntu](https://github.com/Skyler-May/some_project/edit/main/OracleCloud_Resystem/Ubuntu)
+### 1.[CentOS](https://github.com/Skyler-May/OracleCloud-ReSystem/tree/main/CentOS)
+### 2.[Ubuntu](https://github.com/Skyler-May/OracleCloud-ReSystem/tree/main/Ubuntu)
