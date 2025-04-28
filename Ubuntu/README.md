@@ -68,6 +68,7 @@ sudo visudo
 2. 在打开的文件中找到这一行：`%sudo   ALL=(ALL:ALL) ALL` 在下面添加一行来允许特定用户在使用 sudo 时不需要输入密码。比如，假设你的用户名是 ubuntu：
 
 ```bash
+# Allow members of group sudo to execute any command without a password prompt
 ubuntu   ALL=(ALL) NOPASSWD: ALL
 ```
 
